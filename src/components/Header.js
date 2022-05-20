@@ -7,7 +7,7 @@ const Header = () => {
 
     return (
         <div className=" bg-white min-w-full h-16 shadow-lg flex flex-col items-center md:gap-5">
-            <div className="flex items-center w-full justify-around h-full gap-2 ph:w-[90%] tb:w-[80%] tb:gap-3 dt:w-[95%]">
+            <div className="flex items-center w-full justify-around h-full gap-2 ph:w-[90%] tb:w-[80%] tb:gap-3 dt:w-[80%]">
  
                 <div className=" text-gray-500 tb:text-[25px] cursor-pointer"><i class="fa fa-bars"></i></div>
 
