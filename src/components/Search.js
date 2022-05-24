@@ -7,8 +7,10 @@ const Search = () => {
 
 
     return (
-        <div className=" w-screen h-[310px] max-h-auto bg-[#f5f6ea] flex flex-col items-center dt:h-[180px]">
-            <div className=" w-[95%] h-full  flex flex-col items-center justify-around dt:flex-wrap dt:w-[80%]">
+        <div className=" w-screen h-[310px] max-h-auto bg-[#f5f6ea] flex flex-col items-center dt:h-[180px] max-w-full">
+
+            <div className=" w-[95%] h-full  flex flex-col items-center justify-around dt:flex-wrap dt:w-[80%] max-w-screen">
+
                 <div className=" w-[95%] flex items-center tb:w-[620px] dt:w-[35%] dt:h-[50%] ">
                     <input placeholder="Find a Recipe" className="outline-none w-full p-[20px] h-10"/>
                     <div className=" bg-orange-700 h-[42px] w-[55px] flex flex-col justify-center items-center text-lg cursor-pointer text-white"><i class="fa fa-search"></i></div>
@@ -22,6 +24,7 @@ const Search = () => {
                         </div>    
                     )}
                 </div>
+
             </div>
         </div>
     )

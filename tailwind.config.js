@@ -7,7 +7,8 @@ module.exports = {
       screens: {
         'ph': { 'raw': '(min-width: 413px)' },
         'tb': { 'raw': '(min-width: 760px)' },
-        'dt': { 'raw': '(min-width: 1025px)' },
+        'mdt': { 'raw': '(min-width: 1025px)' },
+        'dt': { 'raw': '(min-width: 1280px)' },
       }
     }
   },
