@@ -2,8 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  outline: 1px solid #f00 !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-}
+
+
