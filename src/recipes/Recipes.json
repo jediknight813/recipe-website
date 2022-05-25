@@ -1,0 +1,40 @@
+{
+    "recipes": [
+        {
+            "creator": "CookingWithShelia",
+            "recipe_name": "Orange and Lime Margarita",
+            "description": "This orange and lime margarita is made with fresh fruit juices.",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F05%2F11%2Forange-margarita.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        },
+        {
+            "creator": "Bibi",
+            "recipe_name": "Chicken Bacon Ranch Salad",
+            "description": "Turn leftover chicken into this tasty chicken bacon ranch salad.",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F05%2F12%2Fchicken-bacon-ranch-salad.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        },
+        {
+            "creator": "Chris Book",
+            "recipe_name": "Instant Pot® Sweet Baby Back Ribs",
+            "description": "Tender, sweet, and sticky baby back ribs that only take 1 hour from prep to plate. If you like them with a little spice, add a teaspoon of cayenne pepper to the dry rub. I make this in my 8-quart Instant Pot® Duo; a 6-quart pot may require less liquid. ",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6861159.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        },
+        {
+            "creator": "lutzflcat",
+            "recipe_name": "Savory Spanish Potato Salad",
+            "description": "Spanish potato salad is an important dish in Spain's culinary history. There are many versions, and this is the way we like ours. Goes so well with so many things! This is good served warm or at room temperature. ",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2222505.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        },
+        {
+            "creator": "ghada faris",
+            "recipe_name": "Grilled Garlic Bread",
+            "description": "Ditch the oven and prepare this garlic bread on the grill instead.",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F-0001%2F11%2F30%2F1049226.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        },
+        {
+            "creator": "Irlandes",
+            "recipe_name": "Awesome Pasta Salad",
+            "description": "This is the best pasta salad I've ever eaten, and people request it frequently. It's a very easy, light-tasting side dish for a picnic or dinner. ",
+            "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1282511.jpg&w=272&h=272&c=sc&poi=face&q=60"
+        }
+    ]
+}

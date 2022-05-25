@@ -7,7 +7,7 @@ const Search = () => {
 
 
     return (
-        <div className=" w-screen h-[310px] max-h-auto bg-[#f5f6ea] flex flex-col items-center dt:h-[180px] max-w-full">
+        <div className=" w-screen h-[310px] max-h-auto bg-[#f5f6ea] flex flex-col items-center dt:h-[180px] max-w-full shadow-lg">
 
             <div className=" w-[95%] h-full  flex flex-col items-center justify-around dt:flex-wrap dt:w-[80%] max-w-screen">
 

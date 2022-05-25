@@ -3,6 +3,7 @@ import './index.css';
 import Header from "./components/Header";
 import Search from "./components/Search";
 import MainPageRecipes from "./components/MainPageRecipes";
+import RecipeContainer from "./components/RecipeContainer";
 
 
 const App = () => {
@@ -15,6 +16,8 @@ const App = () => {
             <Header />
             <Search />
             <MainPageRecipes />
+            <RecipeContainer />
+            
         </div>
     )
 }
