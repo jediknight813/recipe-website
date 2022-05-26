@@ -4,7 +4,7 @@ the goal was to recreate the allrecipes homepage.
 
 made using React and tailwind.
 
-a link to the website i made hosted on netify: 
+a link to the website i made hosted on netify: https://verdant-cucurucho-d3257c.netlify.app/
 
 desktop view
 
