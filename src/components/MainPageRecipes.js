@@ -39,7 +39,7 @@ const MainPageRecipes = () =>{
                         </div>    
                     )}
                  </div>
-
+ 
             </div>
 
         </div>

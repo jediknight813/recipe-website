@@ -5,6 +5,7 @@ import Search from "./components/Search";
 import MainPageRecipes from "./components/MainPageRecipes";
 import RecipeContainer from "./components/RecipeContainer";
 import Footer from "./components/Footer";
+import PageCopyRight from "./components/PageCopyRight";
 
 
 const App = () => {
@@ -19,7 +20,8 @@ const App = () => {
             <MainPageRecipes />
             <RecipeContainer />
             <Footer />
-            
+            <PageCopyRight />
+            <div className="pb-20"></div>
         </div>
     )
 }
